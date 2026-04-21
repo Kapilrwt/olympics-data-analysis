@@ -1,0 +1,6 @@
+# Ignore Jupyter Related Folders
+.ipynb_checkpoints
+
+#ignore python cache folders and files
+__pycache__
+*.pyc

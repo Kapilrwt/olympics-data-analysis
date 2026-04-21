@@ -1,0 +1,1 @@
+print('This is a Custom-Package for Olympic Data Exploration')
