@@ -1,65 +1,93 @@
-# 🏅 Olympics Data Analysis
+🏅 Olympics Data Analysis Dashboard
 
-## 📌 Project Overview
-
-This project analyzes historical Olympics data to uncover insights about athletes, countries, and medal trends using Python.
+An interactive data analysis project exploring Olympic Games data (1896–2016). Built using Streamlit and Plotly to visualize trends, performance, and athlete insights.
 
 ---
 
-## 🚀 Features
+🚀 Live Demo
+Experience the interactive dashboard here:
 
-* 📊 Data Cleaning & Preprocessing
-* 📈 Data Visualization (Graphs & Charts)
-* 🏆 Medal Analysis by Country
-* 👤 Athlete Performance Insights
+👉 https://olympics-data-analysis-by-kapil-rawat.streamlit.app/
 
 ---
 
-## 🛠️ Tech Stack
+📊 Project Overview
 
-* Python
-* Pandas
-* Matplotlib
-* Plotly
-* Streamlit
+This project focuses on analyzing historical Olympic data to uncover meaningful insights such as:
+
+📈 Growth in participation of athletes and nations
+🥇 Medal distribution across countries and years
+🧍 Athlete characteristics (Age, Height, Weight)
+🏆 Performance trends of countries and athletes
+📉 Distribution analysis using KDE and statistical methods
 
 ---
 
-## 📂 Project Structure
+🧠 Key Insights
 
-```
+Participation in the Olympics has increased significantly over time
+A few countries have consistently dominated medal tallies
+Athlete age distribution varies across sports
+Physical attributes show patterns depending on the sport
+
+---
+
+🛠️ Tech Stack
+
+Python
+Pandas, NumPy
+Matplotlib, Seaborn
+Plotly
+Streamlit
+SciPy
+
+---
+
+📂 Project Structure
+
 olympics-data-analysis/
-│── data/                # Raw & processed data
-│── notebooks/           # Jupyter notebooks
-│── src/                 # Source code
-│── app.py               # Main app (Streamlit)
-│── requirements.txt     # Dependencies
-```
+│
+├── app.py
+├── src/
+├── notebooks/
+├── data/
+├── requirements.txt
+└── README.md
 
 ---
 
-## ▶️ How to Run
+▶️ Run Locally
 
-```bash
+git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+cd YOUR-REPO-NAME
 pip install -r requirements.txt
 streamlit run app.py
-```
 
 ---
 
-## 📊 Output
+📌 Future Improvements
 
-* Interactive dashboard in browser
-* Visual insights & analytics
-
----
-
-## 🙌 Author
-
-**Kapil Rawat**
+Add Olympic data for 2020 & 2024
+Improve UI/UX of dashboard
+Add advanced analytics
 
 ---
 
-## ⭐ Support
+🤝 Contributing
 
-If you like this project, give it a ⭐ on GitHub!
+Feel free to fork and improve the project!
+
+---
+
+📬 Contact
+
+Open to feedback and suggestions 🚀
+[Gmail-kr927421@gmail.com](mailto:Gmail-kr927421@gmail.com)
+
+---
+
+👨‍💻 Author
+
+Kapil Rawat
+
+---
