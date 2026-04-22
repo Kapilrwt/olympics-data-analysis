@@ -9,7 +9,7 @@ Built using **Streamlit** and **Plotly** to visualize trends, performance, and a
 
 Experience the interactive dashboard here:  
 
-👉  [https://olympics-analysis-by-sumit.streamlit.app/  ]
+👉  https://olympics-data-analysis-by-kapil-rawat.streamlit.app/
 
 ---
 
