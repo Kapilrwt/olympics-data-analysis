@@ -82,7 +82,7 @@ Feel free to fork and improve the project!
 📬 Contact
 
 Open to feedback and suggestions 🚀
-[Gmail-kr927421@gmail.com](mailto:Gmail-kr927421@gmail.com)
+(mailto:Gmail-kr927421@gmail.com)
 
 ---
 
